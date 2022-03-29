@@ -1,0 +1,32 @@
+cloud --> services
+
+200 guest --> 50 rooms
+
+IAAS - infrastructure --> EC2
+PAAS - 
+
+vendors
+1. AWS
+2. Azure
+3. Google cloud
+4. Alibaba cloud
+
+AWS cloud
+1. network concept
+2. EC2
+3. RDS
+4. S3 bucket
+5. IAM
+
+Advantages of AWS cloud
+1. on demand services
+2. Scaling --> Diwali sale --> increase infra
+3. Admin -->
+4. Pay per use
+5. Security
+6. IAM
+
+
+
+
+
