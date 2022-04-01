@@ -10,4 +10,14 @@ Console Home displays widgets with important information about your AWS environm
 -RDS
 -Lambda
 
-3. 
+EC2 --> Elastic Compute cloud
+
+
+
+
+
+
+
+
+
+
